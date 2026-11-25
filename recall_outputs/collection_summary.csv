@@ -1,12 +1,15 @@
 ﻿state,notices,product_or_scope_rows,rows_to_review,source_review_items,coverage,run_utc
-California,200,894,7,10,review,20261124T213814Z-68422f
-Colorado,38,426,5,39,partial index,20261124T213814Z-68422f
-Maine,11,53,0,0,collected,20261124T213814Z-68422f
-Michigan,30,177,5,30,review,20261124T213814Z-68422f
-Missouri,14,7563,0,1,review,20261124T213814Z-68422f
-Montana,2,6,0,0,collected,20261124T213814Z-68422f
-New Jersey,2,2,0,0,collected,20261124T213814Z-68422f
-New Mexico,4,50,1,1,review,20261124T213814Z-68422f
-New York,3,93,0,0,collected,20261124T213814Z-68422f
-Ohio,3,79,1,5,partial index,20261124T213814Z-68422f
-Washington,43,110,23,0,review,20261124T213814Z-68422f
+California,200,894,7,10,review,20261125T075052Z-595c51
+Colorado,38,426,5,39,partial index,20261125T075052Z-595c51
+Maine,11,53,0,0,collected,20261125T075052Z-595c51
+Michigan,30,177,5,30,review,20261125T075052Z-595c51
+Mississippi,2,14,1,0,review,20261125T075052Z-595c51
+Missouri,14,7563,0,1,review,20261125T075052Z-595c51
+Montana,2,6,0,0,collected,20261125T075052Z-595c51
+Nevada,18,2988,4,0,review,20261125T075052Z-595c51
+New Jersey,2,2,0,0,collected,20261125T075052Z-595c51
+New Mexico,4,50,1,1,review,20261125T075052Z-595c51
+New York,3,93,0,0,collected,20261125T075052Z-595c51
+Ohio,3,79,1,5,partial index,20261125T075052Z-595c51
+Oklahoma,17,5190,0,1,review,20261125T075052Z-595c51
+Washington,43,110,23,0,review,20261125T075052Z-595c51
