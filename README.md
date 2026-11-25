@@ -1,5 +1,5 @@
 # Cannabis Recall Analysis 
-## How do cannabis recalls differ between Washington and California state regulatory agencies?
+## How do cannabis recalls differ between state regulatory agencies?
 
 To-Do List:
 - Add Nevada, Oklahoma, Mississippi
